@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@ravindrapuri0004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ravindrapuri0004" height="30" width="40" /></a>
+<a href="https://codepen.io/RavindraPuri0004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ravindrapuri0004" height="30" width="40" /></a>
 <a href="https://twitter.com/@ravinderpuri21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ravinderpuri21" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ravindra-puri-b19754256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindra puri" height="30" width="40" /></a>
 <a href="https://fb.com/ravi goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravi goswami" height="30" width="40" /></a>
